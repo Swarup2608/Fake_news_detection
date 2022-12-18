@@ -1,0 +1,2 @@
+https://www.kaggle.com/c/fake-news/data?select=train.csv
+As the training data is around 27Mb its hard to upload in git so the link to train.csv is here 
